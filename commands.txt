@@ -1,0 +1,5 @@
+interactive rebase
+
+--Update the commit message
+git rebase -i HEAD~1 <= ~1 means commit from most recent
+
